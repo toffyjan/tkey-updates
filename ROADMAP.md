@@ -1,30 +1,39 @@
 # T NFC KEY & T BLE KEY — Roadmap
 
-_Last updated: [date]_
+_Last updated: 1.0.44 Sep4/2026 
 
 ---
 
 ## 🔑 T BLE KEY
 
 ### 🚧 In Review (submitted to Google, awaiting approval)
-- v19 — improved reconnect speed after long idle periods
+
+  v1.0.44
+- Fixed the Unlatch Door tile requiring a live connection to enable — now works the same way as Shopping Mode.
+- Simplified Unlatch in your custom tile layout to a single, clear option for immediate use.
+- Fixed the repeated buzzing firing instead of once. 
+- Fixed app freezes when approaching the car or using tiles, plus under-the-hood memory optimizations.
+- Fixed a missing icon for the Power toggle in the custom tile layout picker.
 
 ### 🔜 Coming Soon
-- Passenger door unlatch toggle
-- Improved shopping mode sensitivity
+- Improvement
 
 ### 🐛 Known Issues
-- Occasional slow reconnect after 20+ min idle on some Samsung watches (fix submitted, see above)
+- None currently
 
 ### ✅ Recently Fixed
-- v18 — improved passive entry reliability
+- v1.0.43 — Se above
 
 ---
 
 ## 🔑 T NFC KEY
 
 ### 🚧 In Review (submitted to Google, awaiting approval)
-- _None currently_
+
+  v1.2.35)
+- Reduced memory usage for lighter, faster background performance.
+- Improved device migration and credential restoration.
+- General stability improvements and bug fixes.
 
 ### 🔜 Coming Soon
 - _None planned_
@@ -33,7 +42,7 @@ _Last updated: [date]_
 - _None currently_
 
 ### ✅ Recently Fixed
-- _None recently_
+- v1.2.35 — Se above
 
 ---
 
