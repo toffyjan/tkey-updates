@@ -6,12 +6,11 @@ Last updated: Sep 2/2026
 
 ## 🔑 T BLE KEY
 
-### 🚧 In Review (submitted to Google, awaiting approval)
-
 ### Cureent Version in Google Play
 - v1.0.43
 
-### 🔜 Coming Soon
+### 🚧 In Review (submitted to Google, awaiting approval) 
+🔜 Coming Soon
 - v1.0.44
 - Fixed the Unlatch Door tile requiring a live connection to enable — now works the same way as Shopping Mode.
 - Simplified Unlatch in your custom tile layout to a single, clear option for immediate use.
@@ -29,12 +28,11 @@ Last updated: Sep 2/2026
 
 ## 🔑 T NFC KEY
 
-### 🚧 In Review (submitted to Google, awaiting approval)
-
 ### Cureent Version in Google Play
 - v1.2.34
 
-### 🔜 Coming Soon
+### 🚧 In Review (submitted to Google, awaiting approval) 
+🔜 Coming Soon
 
 - v1.2.35)
 - Reduced memory usage for lighter, faster background performance.
